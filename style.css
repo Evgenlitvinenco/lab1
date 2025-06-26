@@ -1,0 +1,15 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+h2 {
+  margin-bottom: 20px;
+}
+
+.selected_comment {
+  font-weight: bold;        /* Жирний */
+  text-decoration: underline; /* Підкреслений */
+} 
+    .nav-link.active {
+      font-weight: bold;
+      text-decoration: underline;
+    }
